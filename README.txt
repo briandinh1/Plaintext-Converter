@@ -1,0 +1,2 @@
+Really simple and short program that takes in a text file and returns a new converted file that only has ascii characters (0-127)
+Useful when trying to work with text that is copy pasted from Word or html or any other text that has special characters. 
